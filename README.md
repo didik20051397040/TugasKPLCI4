@@ -6,7 +6,7 @@
 
 ## Setting
 
-- Copy `env` to `.env` and tailor for your app, specifically the baseURL and any database settings.
+- Ubah `env.example` to `.env` 
 - Jalankan `php spark db:create` 
 - Jalankan `php spark migrate` 
 - Jalankan `php spark db:seed users` 
